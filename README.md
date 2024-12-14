@@ -1,9 +1,9 @@
-# Stock Price Prediction Using LSTM
+#Apple Stock Price Prediction Using LSTM
 
 ## Project Overview
 This project is part of my Data Science research work at UMKC. The goal of this project was to predict the stock price of Apple Inc. using historical stock data and news articles. The dataset used in this project can be found on Kaggle: [Apple Stock Data](https://www.kaggle.com/datasets/varpit94/apple-stock-data-updated-till-22jun2021/data).
 
-**Project Date**: October 2023
+**Project Date**: October 2024
 
 ## Dataset Information
 The dataset used for this project includes Apple stock history data. It contains daily stock price information such as:
@@ -34,7 +34,4 @@ The current model could be further improved once more reliable and comprehensive
 - Improved sentiment analysis techniques.
 - Use of external data sources like financial reports and macroeconomic indicators.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/stock-price-prediction.git
+
